@@ -1,7 +1,7 @@
 import { useState } from "react";
 import { Sparkles, ArrowRight, MessageCircle, Layers, Compass, Brain, Newspaper } from "lucide-react";
 import MirrorMark from "./MirrorMark";
-import { PrimaryButton, GhostButton } from "../components/Buttons";
+import { PrimaryButton, GhostButton } from "./Buttons";
 import { C } from "../data/constants";
 
 export default function Landing({ onStart }: { onStart: () => void }) {
