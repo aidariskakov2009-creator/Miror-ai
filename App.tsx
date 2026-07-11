@@ -1,8 +1,8 @@
 import { useState } from "react";
-import Landing from "./screens/Landing";
-import Onboarding from "./screens/Onboarding";
-import Generating from "./screens/Generating";
-import AppShell from "./app/AppShell";
+import Landing from "./Landing";
+import Onboarding from "./Onboarding";
+import Generating from "./Generating";
+import AppShell from "./AppShell";
 import type { OnboardingData, Screen } from "./types";
 
 export default function App() {
