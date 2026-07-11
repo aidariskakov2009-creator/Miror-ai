@@ -1,6 +1,6 @@
 import { useState } from "react";
 import { Sparkles, ArrowRight, MessageCircle, Layers, Compass, Brain, Newspaper } from "lucide-react";
-import MirrorMark from "../components/MirrorMark";
+import MirrorMark from "./MirrorMark";
 import { PrimaryButton, GhostButton } from "../components/Buttons";
 import { C } from "../data/constants";
 
